@@ -12,14 +12,17 @@
 ![](https://streak-stats.demolab.com/?user=code-with-ricky&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-with-ricky&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-with-ricky&theme=nightowl&no-frame=false&no-bg=false&margin-w=4)
+## 📈 Contribution Graph
+[![Amrik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-ricky&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=code-with-ricky&theme=nightowl&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-with-ricky&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=code-with-ricky&limit=5&theme=nightowl&combine_all_yearly_contributions=true)  -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=code-with-ricky&icon=5&color=1)](https://visitcount.itsvg.in)
